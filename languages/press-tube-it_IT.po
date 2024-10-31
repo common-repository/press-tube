@@ -1,0 +1,366 @@
+# Copyright (C) 2017 codekraft-studio
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Press Tube 0.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/press-tube\n"
+"POT-Creation-Date: 2017-03-25 18:37+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-03-26 09:26+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+#: include/class-main.php:224
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: include/class-main.php:244
+msgid "Donate"
+msgstr "Donazione"
+
+#: include/class-playlist.php:50
+msgid "Count"
+msgstr "Conto"
+
+#: include/class-playlist.php:51 include/class-playlist.php:233
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: include/class-playlist.php:80 include/class-playlist.php:81
+#: include/class-playlist.php:108 include/class-playlist.php:199
+msgid "Playlist"
+msgstr "Playlist"
+
+#: include/class-playlist.php:82
+msgid "Playlist Archives"
+msgstr "Archivio Playlist"
+
+#: include/class-playlist.php:83
+msgid "Playlist Attributes"
+msgstr "Attributi Playlist"
+
+#: include/class-playlist.php:84
+msgid "Parent Playlist:"
+msgstr "Playlist Genitore:"
+
+#: include/class-playlist.php:85
+msgid "All Playlists"
+msgstr "Tutte le Playlist"
+
+#: include/class-playlist.php:86
+msgid "Add New Playlist"
+msgstr "Aggiungi Nuova Playlist"
+
+#: include/class-playlist.php:87
+msgid "Add New"
+msgstr "Aggiungi nuova"
+
+#: include/class-playlist.php:88
+msgid "New Playlist"
+msgstr "Nuova Playlist"
+
+#: include/class-playlist.php:89
+msgid "Edit Playlist"
+msgstr "Modifica Playlist"
+
+#: include/class-playlist.php:90
+msgid "Update Playlist"
+msgstr "Aggiorna la Playlist"
+
+#: include/class-playlist.php:91
+msgid "View Playlist"
+msgstr "Guarda la Playlist"
+
+#: include/class-playlist.php:92
+msgid "View Playlists"
+msgstr "Guarda le Playlists"
+
+#: include/class-playlist.php:93
+msgid "Search Playlist"
+msgstr "Cerca una Playlist"
+
+#: include/class-playlist.php:94
+msgid "Not found"
+msgstr "Non trovato"
+
+#: include/class-playlist.php:95
+msgid "Not found in Trash"
+msgstr "Non trovato nel Cestino"
+
+#: include/class-playlist.php:96
+msgid "Featured Image"
+msgstr ""
+
+#: include/class-playlist.php:97
+msgid "Set featured image"
+msgstr ""
+
+#: include/class-playlist.php:98
+msgid "Remove featured image"
+msgstr ""
+
+#: include/class-playlist.php:99
+msgid "Use as featured image"
+msgstr ""
+
+#: include/class-playlist.php:100
+msgid "Insert into item"
+msgstr ""
+
+#: include/class-playlist.php:101
+msgid "Uploaded to this item"
+msgstr ""
+
+#: include/class-playlist.php:102
+msgid "Playlists list"
+msgstr ""
+
+#: include/class-playlist.php:103
+msgid "Playlists list navigation"
+msgstr ""
+
+#: include/class-playlist.php:104
+msgid "Filter items list"
+msgstr ""
+
+#: include/class-playlist.php:109
+msgid "A YouTube playlist."
+msgstr "Una playlist di YouTube."
+
+#. Plugin Name of the plugin/theme
+msgid "Press Tube"
+msgstr "Press Tube"
+
+#: include/class-playlist.php:141
+msgid "Playlist Items"
+msgstr ""
+
+#: include/class-playlist.php:142
+msgid "Playlist Shortcode"
+msgstr ""
+
+#: include/class-playlist.php:217
+msgid "No Playlist"
+msgstr "Nessuna Playlist"
+
+#: include/class-playlist.php:247
+msgid "Playlist Videos"
+msgstr ""
+
+#: include/class-playlist.php:281
+msgid "Type here to filter"
+msgstr "Scrivi qui per filtrare"
+
+#: include/class-playlist.php:315
+msgid "Customize the shortcode to use in your pages and posts."
+msgstr "Personalizza lo shortcode da usare nei tuoi articoli e pagine."
+
+#: include/class-playlist.php:327
+msgid "Display Mode"
+msgstr ""
+
+#: include/class-playlist.php:329
+msgid "Normal"
+msgstr "Normale"
+
+#: include/class-playlist.php:330
+msgid "List"
+msgstr "Lista"
+
+#: include/class-playlist.php:331
+msgid "Slider"
+msgstr "Slider"
+
+#: include/class-playlist.php:332
+msgid "Gallery"
+msgstr "Galleria"
+
+#: include/class-playlist.php:338
+msgid "Width"
+msgstr "Larghezza"
+
+#: include/class-playlist.php:343
+msgid "Height"
+msgstr "Altezza"
+
+#: include/functions.php:102
+msgid "Published at:"
+msgstr "Pubblicato il:"
+
+#: include/settings/class-option-main.php:60
+msgid "The Api Key is empty or not valid, should contain 39 word characters."
+msgstr ""
+
+#: include/settings/class-option-main.php:78
+msgid ""
+"Something went wrong with the key you entered, check you have the right key "
+"obtained on Google Api Console."
+msgstr ""
+
+#: include/settings/class-option-main.php:100
+msgid ""
+"The Channel Id you entered is invalid, it should be 24 word characters long "
+"and pointing to a real YouTube channel."
+msgstr ""
+
+#: include/settings/class-option-main.php:118
+msgid ""
+"The Channel Id is not valid, is not matching with any existing YouTube "
+"channel."
+msgstr ""
+
+#: include/settings/class-option-main.php:155
+msgid ""
+"Press Tube: It looks like you dont have a Api Key, visit the %s page "
+"otherwise the plugin functions will not be available."
+msgstr ""
+
+#: include/shortcodes/playlist.php:78
+msgid "The playlist does not exist."
+msgstr "La playlist non esiste."
+
+#: include/widgets/last-videos.php:73 include/widgets/subscribe.php:61
+msgid "Display videos list from YouTube with many options."
+msgstr ""
+
+#: include/widgets/last-videos.php:148
+msgid "No results found."
+msgstr "Nessun risultato trovato."
+
+#: include/widgets/live-stream.php:45
+msgid "Display a live stream from YouTube."
+msgstr ""
+
+#: include/widgets/live-stream.php:97
+msgid "The Video Id is not valid."
+msgstr ""
+
+#: include/widgets/subscribe.php:81
+msgid "Subscribe"
+msgstr ""
+
+#: include/widgets/subscribe.php:102
+msgid "The Channel Id is not valid."
+msgstr ""
+
+#: views/settings-dashboard.php:22
+msgid "Dashboard"
+msgstr ""
+
+#: views/settings-dashboard.php:37
+msgid "Subscribers"
+msgstr ""
+
+#: views/settings-dashboard.php:48
+msgid "Channel Playlists"
+msgstr ""
+
+#: views/settings-dashboard.php:52
+msgid "There are %s playlists imported from YouTube"
+msgstr ""
+
+#: views/settings-dashboard.php:57
+msgid "Search"
+msgstr "Cerca"
+
+#: views/settings-dashboard.php:86
+msgid "It looks like you don't have any playlist on your channel."
+msgstr "Sembra che non hai nessuna playlist sul tuo canale."
+
+#: views/settings-dashboard.php:94
+msgid "Site Playlists"
+msgstr ""
+
+#: views/settings-dashboard.php:98
+msgid "There are %s custom playlists on you site."
+msgstr "Ci sono %s custom playlist sul tuo sito."
+
+#: views/settings-dashboard.php:120
+msgid ""
+"You don't have any custom playlist yet, do you want to create a new one?"
+msgstr ""
+
+#: views/settings-page.php:12
+msgid ""
+"Press Tube is a <b>complete</b>, all in one, YouTube solution for WordPress "
+"installations. Is the easy way to access to all your channel content "
+"<b>directly from WordPress</b>."
+msgstr ""
+
+#: views/settings-page.php:13
+msgid ""
+"Find easily content and share it on your posts. Manage <b>Custom Playlists</"
+"b> inside WordPress. Customize your site view with a set of <b>Widgets</b> "
+"and <b>Shortcodes</b> for every eventuality."
+msgstr ""
+
+#: views/settings-page.php:14
+msgid ""
+"Connect directly with your YouTube channel to use your content inside "
+"WordPress, you can have access to playlists and liked videos."
+msgstr ""
+
+#: views/settings-page.php:22
+msgid ""
+"Once you have done remember to save the key in the settings box below, to "
+"enable the plugin."
+msgstr ""
+
+#: views/settings-page.php:25
+msgid "Where I can get a key?"
+msgstr "Dove posso fare una key?"
+
+#: views/settings-page.php:26
+msgid ""
+"You can get a valid Api Key to use in your site visiting <a href=\"https://"
+"console.developers.google.com/apis/credentials\">Google Api Console</a>, "
+"follow the steps in the video to create a new project, we suggest to call it "
+"as your website name, than enable the YouTube Data Api and save the key in "
+"the plugin settings to enable all the functionality."
+msgstr ""
+
+#: views/settings-page.php:30
+msgid "Why I have to generate a key?"
+msgstr "Perchè devo generare una key?"
+
+#: views/settings-page.php:31
+msgid ""
+"Using our key for all installations of the plugin will risk incurring usage "
+"limits, to avoid this and to avoid having to make the plugin free of charge "
+"we thought to use for each one to its own key."
+msgstr ""
+
+#: views/settings-page.php:38
+msgid "Did you liked the plugin?"
+msgstr "Ti è piaciuto il plugin?"
+
+#: views/settings-page.php:39
+msgid ""
+"Share it on your favorite social media and if you're feeling generous, "
+"donate to the authors."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The easiest way to integrate YouTube in your WordPress site, with many "
+"functionality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "codekraft-studio"
+msgstr ""
+
+#: include/class-playlist.php:78
+msgctxt "Post Type General Name"
+msgid "Playlists"
+msgstr "Playlists"
+
+#: include/class-playlist.php:79
+msgctxt "Post Type Singular Name"
+msgid "Playlist"
+msgstr "Playlist"
